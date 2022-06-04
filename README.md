@@ -17,25 +17,25 @@ I am always on the lookout for new projects to work on and new people to collabo
 I have a lot of experience in the field of Cyber Security and I have worked on many 
 different Projects through out the Years(2015-2022).
             
-  - Computer Science       -> Fictional Timetableing System, OCR, FR-CCTV(Face Recognition AI)
-  - Data Science           -> Sentiment Analysis, Natural Language Processing, Machine Learning
-  - Software Engineering   -> Web Browser Development, Android Development, iOS Development
-  - Machine Learning       -> Neural Networks, Deep Learning, Reinforcement Learning
-  - Robotic                -> Robotic Arm, Robotic Head, Robotic Leg, Robotic Hand
-  - Hacking                -> Penetration Testing, Vulnerability Analysis<br>
-                           -> Reversing, Low Level Hacking ( Kernel, ...)<br>
-                           -> Web Exploitation, Hardware Hacking(Wallet, USB, INP Devices)<br>
-                           -> Bug Hunting, IOT Hacking, Binary Exploitation, Car Hacking(sort of?)<br>
-  - Cyber Security         -> Vulnerability Analysis
-  - Cryptography           -> Cryptography, Encryption, Decryption
-  - Networking             -> Networking, Network Security, Network Monitoring, VPNS, Packet Poisoning
-  - Hardware               -> Embedded Systems, Hardware Security
-  - Low Level              -> Operating System, Bootloader, DCA, Chipsets, MBU, Motherboards (Fail)
-  - Fullstack, Dev Ops     -> Exploitation(modules) Website, Blog, Portofolio, Databases
-  - MS-PowerPoint          -> Presentations, Slides, Animations
-  - MS-Excel               -> Spreadsheets, Tables, Charts
-  - MS-Word                -> Documents, Pages, Presentations
-  - MS-Access              -> Access Databases, Access Forms
+  - Computer Science ------------> Fictional Timetableing System, OCR, FR-CCTV(Face Recognition AI)
+  - Data Science ----------------> Sentiment Analysis, Natural Language Processing, Machine Learning
+  - Software Engineering --------> Web Browser Development, Android Development, iOS Development
+  - Machine Learning ------------> Neural Networks, Deep Learning, Reinforcement Learning
+  - Robotic ---------------------> Robotic Arm, Robotic Head, Robotic Leg, Robotic Hand
+  - Hacking ---------------------> Penetration Testing, Vulnerability Analysis<br>
+  -------------------------------> Reversing, Low Level Hacking ( Kernel, ...)<br>
+  -------------------------------> Web Exploitation, Hardware Hacking(Wallet, USB, INP Devices)<br>
+  -------------------------------> Bug Hunting, IOT Hacking, Binary Exploitation, Car Hacking(sort of?)<br>
+  - Cyber Security --------------> Vulnerability Analysis
+  - Cryptography ----------------> Cryptography, Encryption, Decryption
+  - Networking ------------------> Networking, Network Security, Network Monitoring, VPNS, Packet Poisoning
+  - Hardware --------------------> Embedded Systems, Hardware Security
+  - Low Level -------------------> Operating System, Bootloader, DCA, Chipsets, MBU, Motherboards (Fail)
+  - Fullstack, Dev Ops ----------> Exploitation(modules) Website, Blog, Portofolio, Databases
+  - MS-PowerPoint ---------------> Presentations, Slides, Animations
+  - MS-Excel --------------------> Spreadsheets, Tables, Charts
+  - MS-Word ---------------------> Documents, Pages, Presentations
+  - MS-Access -------------------> Access Databases, Access Forms
 
 
 
