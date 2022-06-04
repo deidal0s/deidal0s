@@ -6,7 +6,7 @@
 - 4.0  Current Projects
 - 5.0  Statistics
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <p dir="auto" align="center"><a target="_blank" href="https://t.me/officiate"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p>
 
 ## 1.0 About me
