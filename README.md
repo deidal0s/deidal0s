@@ -18,7 +18,7 @@ I have a lot of experience in the field of Cyber Security and I have worked on m
 different Projects through out the Years(2015-2022).
             
   - Computer Science ------------> Fictional Timetableing System, OCR, FR-CCTV(Face Recognition AI)
-  - Data Science ----------------> Sentiment Analysis, Natural Language Processing, Machine Learning
+  - Data Science ------------------> Sentiment Analysis, Natural Language Processing, Machine Learning
   - Software Engineering --------> Web Browser Development, Android Development, iOS Development
   - Machine Learning ------------> Neural Networks, Deep Learning, Reinforcement Learning
   - Robotic ---------------------> Robotic Arm, Robotic Head, Robotic Leg, Robotic Hand
