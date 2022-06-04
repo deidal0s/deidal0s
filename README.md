@@ -12,8 +12,6 @@
 My name is George and I am also known as Deidalos, im 18 years old and i major in Cyber Security , Computer / Data Science, Machine Learning, Software Engineering and Robotic. I am aspiring to work at NSA or IC3 as a Security Researcher and at Google, Facebook or Apple as a Junior Software Engineer. I am always working on new Projects despite how hard they are. I always have new ideas for my Projects and my Work. At the moment I am focused on low level Development and low level Capture The Flags and King Of The Hills (in general everything that has to do with low level Dev and Hacking) event and matches. In these past five years I was doing various Bug Bounties for many different companies, I found many different bugs, exploits and 0days for Discord, Instagram, Sleek, Twitter, Lieferando, OBS, Government Websites (Confidential)(Some POCs and Exploits can be found at my Youtube Channel and at my Github repositories) and took part in various Cyber Security events through out the years of my Journey.
 
 I am always on the lookout for new projects to work on and new people to collaborate with.Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Im always glad for every single information i get and learn about stuff i don't know.
-<br><br><br><br>
-
 
 ## 2.0 EDV
 I have a lot of experience in the field of Cyber Security and I have worked on many 
@@ -39,23 +37,23 @@ different Projects through out the Years(2015-2022).
   - MS-Excel               -> Spreadsheets, Tables, Charts
   - MS-Word                -> Documents, Pages, Presentations
   - MS-Access              -> Access Databases, Access Forms
-</pre><br><br>
+</pre>
 
 
 ## 3.0 Taking Notes
-<pre>
+
   - Obsidian
   - Cherry
   - Chena
-</pre><br><br>
+
 
 ## 4.0 Current Projects
-<pre>
+
   - K-OS
   - EPF
   - ARS
   - Car Vectors
-</pre><br><br>
+
 
 ## 5.0 Statistics
 <details>
