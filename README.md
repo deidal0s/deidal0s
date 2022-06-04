@@ -26,9 +26,9 @@ different Projects through out the Years(2015-2022).
   - Machine Learning       -> Neural Networks, Deep Learning, Reinforcement Learning
   - Robotic                -> Robotic Arm, Robotic Head, Robotic Leg, Robotic Hand
   - Hacking                -> Penetration Testing, Vulnerability Analysis  <br/>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎-> Reversing, Low Level Hacking ( Kernel, ...)  <br/>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎-> Web Exploitation, Hardware Hacking(Wallet, USB, INP Devices)  <br/>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎-> Bug Hunting, IOT Hacking, Binary Exploitation, Car Hacking(sort of?)  <br/>
+‎  ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎   ‎ -> Reversing, Low Level Hacking ( Kernel, ...)  <br/>
+‎  ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎   ‎ -> Web Exploitation, Hardware Hacking(Wallet, USB, INP Devices)  <br/>
+‎  ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎   ‎ -> Bug Hunting, IOT Hacking, Binary Exploitation, Car Hacking(sort of?)  <br/>
   - Cyber Security         -> Vulnerability Analysis
   - Cryptography           -> Cryptography, Encryption, Decryption
   - Networking             -> Networking, Network Security, Network Monitoring, VPNS, Packet Poisoning
