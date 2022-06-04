@@ -17,7 +17,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 I have a lot of experience in the field of Cyber Security and I have worked on many 
 different Projects through out the Years(2015-2022).
             
-<pre>
+
   - Computer Science       -> Fictional Timetableing System, OCR, FR-CCTV(Face Recognition AI)
   - Data Science           -> Sentiment Analysis, Natural Language Processing, Machine Learning
   - Software Engineering   -> Web Browser Development, Android Development, iOS Development
@@ -37,7 +37,7 @@ different Projects through out the Years(2015-2022).
   - MS-Excel               -> Spreadsheets, Tables, Charts
   - MS-Word                -> Documents, Pages, Presentations
   - MS-Access              -> Access Databases, Access Forms
-</pre>
+
 
 
 ## 3.0 Taking Notes
