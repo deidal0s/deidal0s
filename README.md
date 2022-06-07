@@ -58,6 +58,6 @@ different Projects through out the Years(2015-2022).
 ## 5.0 Statistics
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerago&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerago&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daidal0s&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deidal0s&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 </details>
