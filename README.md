@@ -7,7 +7,7 @@
 - 5.0  Statistics
 
 <br><br><br><br><br><br>
-<p dir="auto" align="center"><a target="_blank" href="https://t.me/officiate"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p>
+<p dir="auto" align="center"><a target="_blank" href="https://t.me/soapier"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p>
 
 ## 1.0 About me
 My name is George and I am also known as Deidalos, im 18 years old and i major in Cyber Security , Computer / Data Science, Machine Learning, Software Engineering and Robotic. I am aspiring to work at NSA or IC3 as a Security Researcher and at Google, Facebook or Apple as a Junior Software Engineer. I am always working on new Projects despite how hard they are. I always have new ideas for my Projects and my Work. At the moment I am focused on low level Development and low level Capture The Flags and King Of The Hills (in general everything that has to do with low level Dev and Hacking) event and matches. In these past five years I was doing various Bug Bounties for many different companies, I found many different bugs, exploits and 0days for Discord, Instagram, Sleek, Twitter, Lieferando, OBS, Government Websites (Confidential)(Some POCs and Exploits can be found at my Youtube Channel and at my Github repositories) and took part in various Cyber Security events through out the years of my Journey.
